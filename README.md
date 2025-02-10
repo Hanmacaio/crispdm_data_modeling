@@ -2,6 +2,7 @@ Esse exercício é uma atividade de reposição de dados utilizando um dicionár
 O intúito desse projeto é justamente praticar essa etapa do crisp enquanto posso fixar minhas habilidades e ferramentas em python.
 
 O dicionário utilizado foi fetch_california_housing disponível no link abaixo
+
 https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html
 
 O objetivo é realizar a predição do target com a menor taxa de erro possível, para isso, seguido a ideia de materiais disponíveis na internet decidi utilizar os seguintes métodos de modelagem:
